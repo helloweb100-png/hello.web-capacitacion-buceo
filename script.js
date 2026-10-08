@@ -19,7 +19,7 @@
 const CONFIG = {
     // TODO: número de WhatsApp con código de país, solo dígitos, sin "+" ni espacios.
     // Ejemplo para México: '5217641234567'
-    whatsapp: '52XXXXXXXXXX',
+    whatsapp: '5212291268704',
     defaultMessage: 'Hola, quiero información sobre los cursos de buceo industrial y soldadura submarina.'
 };
 
